@@ -11,5 +11,6 @@ Here are summary of whole challenge and my solutions to assignments for professi
   <li> Day 83 - Tic Tac Toe for 2 Players. &nbsp;&nbsp;<b>[CLI]</b> </li>
   <li> Day 84 - Image Watermarking. &nbsp;&nbsp;<b>[GUI]</b> </li>
   <li> Day 85 - Typing Speed Test. &nbsp;&nbsp;<b>[GUI]</b> </li>
+  <li> Day 85 - Classic 80's Game - Breakout. &nbsp;&nbsp;<b>[Game]</b> </li>
 </ul>
 
