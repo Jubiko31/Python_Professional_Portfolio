@@ -14,5 +14,6 @@ Here are summary of whole challenge and my solutions to assignments for professi
   <li> Day 86 - Classic 80's Game - Breakout. &nbsp;&nbsp;<b>[Game]</b> </li>
   <li> Day 87 - Cafe & Wife Websit. &nbsp;&nbsp;<b>[Web Development]</b> </li>
   <li> Day 88 - <a href="https://github.com/Jubiko31/advance-todo-app-django" target="_blank">Todo List App with Django</a>  &nbsp;&nbsp;<b>[Web Development]</b> </li>
+  <li> Day 89 - Disappearing Text Writing App. &nbsp;&nbsp;<b>[GUI]</b> </li>
 </ul>
 
