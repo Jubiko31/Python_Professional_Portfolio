@@ -17,5 +17,6 @@ Here are summary of whole challenge and my solutions to assignments for professi
   <li> Day 89 - Disappearing Text Writing App. &nbsp;&nbsp;<b>[GUI]</b> </li>
   <li> Day 90 - PDF to Audiobook Convetor. &nbsp;&nbsp;<b>[Files & APIs]</b> </li>
   <li> Day 91 - Image Color Palette Generator. &nbsp;&nbsp;<b>[Image Processing & Data Science]</b> </li>
+  <li> Day 92 - Custom Web Scraper. &nbsp;&nbsp;<b>[Web Scraping]</b> </li>
 </ul>
 
