@@ -22,6 +22,16 @@ Here are summary of whole challenge and my solutions to assignments for professi
   <li> Day 94 - Space Invaders. &nbsp;&nbsp;<b>[Game]</b> </li>
   <li> Day 95 - The Lord of the Rings Random Quote Sender. &nbsp;&nbsp;<b>[HTTP Requests & APIs]</b> </li>
   <li> Day 96 - <a href="https://github.com/Jubiko31/full-ecommerce-django" target="_blank">Full eCommerce Website using Django & React.</a> &nbsp;&nbsp;<b>[Web Development]</b> </li>
+  <li> Day 97 - Advance Python Automations & AI Project. &nbsp;&nbsp;<b>[AI & Automation]</b> </li>
+  <ul>
+    <li><a href="https://github.com/Jubiko31/ai-voice-assistant">AI Voice Assistant (v0.1)</a></li>
+    <li>MP4 to MP3 Convertor</li>
+    <li>Youtube Video Downloader</li>
+    <li>Insta DP Downloader</li>
+    <li>Image Compressor</li>
+    <li>Internet Speed Tester</li>
+    <li>CSV To Excel Concertor</li>
+</ul>
 </ul>
 
 
