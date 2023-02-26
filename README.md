@@ -33,6 +33,9 @@ Here are summary of whole challenge and my solutions to assignments for professi
     <li>CSV To Excel Concertor</li>
   </ul>
   <li> Day 98 - <a href="https://colab.research.google.com/drive/1ShsX_RfjOELz34-ZB53XT0nPk0jaMCiT?usp=share_link" target="_blank">Space Missions Analysis</a> &nbsp;&nbsp;<b>[Data Science]</b> </li>
+  <li> Day 99 - <a href="https://colab.research.google.com/drive/1lKa1BJI3P1V8c_LY9JcsUoybzi7GLMqw?usp=sharing" target="_blank">Analyse Deaths involving Police in USA</a> &nbsp;&nbsp;<b>[Data Science]</b> </li>
 </ul>
+
+
 
 
