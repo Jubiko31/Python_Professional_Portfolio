@@ -34,6 +34,7 @@ Here are summary of whole challenge and my solutions to assignments for professi
   </ul>
   <li> Day 98 - <a href="https://colab.research.google.com/drive/1ShsX_RfjOELz34-ZB53XT0nPk0jaMCiT?usp=share_link" target="_blank">Space Missions Analysis</a> &nbsp;&nbsp;<b>[Data Science]</b> </li>
   <li> Day 99 - <a href="https://colab.research.google.com/drive/1lKa1BJI3P1V8c_LY9JcsUoybzi7GLMqw?usp=sharing" target="_blank">Analyse Deaths involving Police in USA</a> &nbsp;&nbsp;<b>[Data Science]</b> </li>
+  <li> Day 100 - <a href="https://colab.research.google.com/drive/17hGy0LJ-W7z6_kpsRF3P6ijQ0xqDjggg?usp=sharing" target="_blank">Predict Earnings using Multivariable Regression</a> &nbsp;&nbsp;<b>[Data Science]</b> </li>
 </ul>
 
 
